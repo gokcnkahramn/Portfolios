@@ -1,9 +1,9 @@
-Bu projede Django'nun temellerini öğrenmeye çalıştım.
-Projemizde basit bir API ile yaptığımız alışverişteki ürünleri ve satın aldığımız ürün miktarını kaydedebiliyoruz.
-Ürünleri kaydettikten sonra site üzerinden ürünlerimizi JSON formatında görebiliyoruz.
+In this project, I tried to learn the basics of Django.
+In our project, we can record the products we shop with and the amount of products we purchase with a simple API.
+After registering the products, we can view our products in JSON format on the site.
 
-Kendi admin bilgilerimizi yazmak için: py manage.py createsuperuser
+To write our own admin information: py manage.py createsuperuser
 
-Admin sayfası: http://127.0.0.1:8000/admin/
+Admin page: http://127.0.0.1:8000/admin/
 
-Ürün listesinin JSON format hali: http://127.0.0.1:8000/myapp/api/user-table/
+JSON format of the product list: http://127.0.0.1:8000/myapp/api/user-table/
